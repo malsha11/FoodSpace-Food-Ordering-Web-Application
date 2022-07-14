@@ -129,12 +129,20 @@ function EditProductPage() {
                 <option disabled selected>
                   -- Select One --
                 </option>
-                <option value='technology'>technology</option>
-                <option value='tablets'>tablets</option>
-                <option value='phones'>phones</option>
-                <option value='laptops'>laptops</option>
-                <option value='laptops'>laptops</option>
-                <option value='laptops'>laptops</option>
+                <option value='Bowls'>Bowls</option>
+                <option value='Sandwiches'>Sandwiches</option>
+                <option value='Burgers & Wraps'>Burgers & Wraps</option>
+                <option value='Fresh desserts'>Fresh desserts</option>
+                <option value='Kottu'>Kottu</option>
+                <option value='Burgers, Steaks, Chops & BBQ'>
+                  Burgers, Steaks, Chops & BBQ
+                </option>
+                <option value='Biryanis & Thalis'>Biryanis & Thalis</option>
+                <option value='Soups'>Soups</option>
+                <option value='Pasta Pasta'>Pasta Pasta</option>
+                <option value='Cakes'>Cakes</option>
+                <option value='Vegan & Vegetarian'>Vegan & Vegetarian</option>
+                <option value='Appetizers & Salads'>Appetizers & Salads</option>
               </Form.Select>
             </Form.Group>
 
