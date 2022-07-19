@@ -97,7 +97,7 @@ function NewProduct() {
             </Form.Group>
 
             <Form.Group className='mb-3'>
-              <Form.Label>Price(LKR)</Form.Label>
+              <Form.Label>Price (LKR)</Form.Label>
               <Form.Control
                 type='number'
                 placeholder=' Enter price (LKR)'
@@ -123,7 +123,7 @@ function NewProduct() {
                 <option value='fresh desserts'>fresh desserts</option>
                 <option value='kottu'>kottu</option>
                 <option value='burgers, steaks, chops & bbq'>
-                  burgers, steaks, chops & bbq{' '}
+                  steaks, chops & bbq{' '}
                 </option>
                 <option value='biryanis & thalis'>biryanis & thalis</option>
                 <option value='soups'>soups</option>
