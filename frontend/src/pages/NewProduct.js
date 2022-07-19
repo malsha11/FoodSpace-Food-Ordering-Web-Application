@@ -116,20 +116,21 @@ function NewProduct() {
                 <option disabled selected>
                   -- Select One --
                 </option>
-                <option value='Bowls'>Bowls</option>
-                <option value='Sandwiches'>Sandwiches</option>
-                <option value='Burgers & Wraps'>Burgers & Wraps</option>
-                <option value='Fresh desserts'>Fresh desserts</option>
-                <option value='Kottu'>Kottu</option>
-                <option value='Burgers, Steaks, Chops & BBQ'>
-                  Burgers, Steaks, Chops & BBQ
+                <option value='bowls'>bowls</option>
+                <option value='sandwiches'>sandwiches</option>
+                <option value='pizza'>pizza</option>
+                <option value='burgers & wraps'>burgers & wraps</option>
+                <option value='fresh desserts'>fresh desserts</option>
+                <option value='kottu'>kottu</option>
+                <option value='burgers, steaks, chops & bbq'>
+                  burgers, steaks, chops & bbq{' '}
                 </option>
-                <option value='Biryanis & Thalis'>Biryanis & Thalis</option>
-                <option value='Soups'>Soups</option>
-                <option value='Pasta Pasta'>Pasta Pasta</option>
-                <option value='Cakes'>Cakes</option>
-                <option value='Vegan & Vegetarian'>Vegan & Vegetarian</option>
-                <option value='Appetizers & Salads'>Appetizers & Salads</option>
+                <option value='biryanis & thalis'>biryanis & thalis</option>
+                <option value='soups'>soups</option>
+                <option value='pasta pasta'>pasta pasta</option>
+                <option value='cakes'>cakes</option>
+                <option value='vegan & vegetarian'>vegan & vegetarian</option>
+                <option value='appetizers & salads'>appetizers & salads</option>
               </Form.Select>
             </Form.Group>
 
