@@ -142,7 +142,7 @@ function EditProductPage() {
                 <option value='soups'>soups</option>
                 <option value='pasta pasta'>pasta pasta</option>
                 <option value='cakes'>cakes</option>
-                <option value='vegan & vegetarian'>vegan & vegetarian</option>
+                <option value='soft drinks'>soft drinks</option>
                 <option value='appetizers & salads'>appetizers & salads</option>
               </Form.Select>
             </Form.Group>
