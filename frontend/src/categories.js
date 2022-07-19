@@ -62,6 +62,16 @@ const categories = [
     name: 'Appetizers & Salads',
     img: 'https://images.pexels.com/photos/8141457/pexels-photo-8141457.jpeg?auto=compress&cs=tinysrgb&w=600',
   },
+
+  {
+    name: 'Sides & Beveranges',
+    img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN63kDQ0zAdK4aiNP6Yz2rz6HRb_LPlug54dxSW-zdu9EQBIeMVR5rElLu7vw9r0i1XcY&usqp=CAU',
+  },
+
+  {
+    name: 'Noodles & Mee Goreng',
+    img: 'https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=600',
+  },
 ]
 
 export default categories

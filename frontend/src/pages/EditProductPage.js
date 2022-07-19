@@ -144,6 +144,10 @@ function EditProductPage() {
                 <option value='cakes'>cakes</option>
                 <option value='soft drinks'>soft drinks</option>
                 <option value='appetizers & salads'>appetizers & salads</option>
+                <option value='sides & beveranges'>sides & beveranges</option>
+                <option value='noodles & mee goreng'>
+                  noodles & mee goreng
+                </option>
               </Form.Select>
             </Form.Group>
 
