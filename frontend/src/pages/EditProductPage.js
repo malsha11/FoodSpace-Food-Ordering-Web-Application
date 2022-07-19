@@ -135,7 +135,7 @@ function EditProductPage() {
                 <option value='burgers & wraps'>burgers & wraps</option>
                 <option value='fresh desserts'>fresh desserts</option>
                 <option value='kottu'>kottu</option>
-                <option value='burgers, steaks, chops & bbq'>
+                <option value='steaks, chops & bbq'>
                   steaks, chops & bbq{' '}
                 </option>
                 <option value='biryanis & thalis'>biryanis & thalis</option>
