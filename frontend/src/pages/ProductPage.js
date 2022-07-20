@@ -78,7 +78,7 @@ function ProductPage() {
           </p>
           <p className='product__price'>LKR{product.price}</p>
           <p style={{ textAlign: 'justify' }} className='py-3'>
-            <strong>Description:</strong> {product.description}
+            <strong>DETAILS ABOUT THIS MEAL :</strong> {product.description}
           </p>
           {user && !user.isAdmin && (
             <ButtonGroup style={{ width: '90%' }}>

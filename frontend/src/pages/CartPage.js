@@ -86,7 +86,7 @@ function CartPage() {
                           }}
                         />
                       </td>
-                      <td>${item.price}</td>
+                      <td>LKR {item.price}</td>
                       <td>
                         <span className='quantity-indicator'>
                           <i
@@ -112,13 +112,13 @@ function CartPage() {
                           ></i>
                         </span>
                       </td>
-                      <td>${item.price * user.cart[item._id]}</td>
+                      <td>LKR {item.price * user.cart[item._id]}</td>
                     </tr>
                   ))}
                 </tbody>
               </Table>
               <div>
-                <h3 className='h4 pt-4'>Total: ${user.cart.total}</h3>
+                <h3 className='h4 pt-4'>Total: LKR {user.cart.total}</h3>
               </div>
             </>
           </Col>
